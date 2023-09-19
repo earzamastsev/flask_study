@@ -1,0 +1,26 @@
+[
+    {
+      "goal": "travel",
+      "time": "7-10",
+      "name": "\u0415\u0432\u0433\u0435\u043d\u0438\u0439",
+      "phone": "+7(929)213-83-40"
+    },
+  {
+    "goal": "study",
+    "time": "1-2",
+    "name": "Leo",
+    "phone": "+79292133423"
+  },
+  {
+    "goal": "work",
+    "time": "5-7",
+    "name": "asdf",
+    "phone": "fda"
+  },
+  {
+    "goal": "work",
+    "time": "5-7",
+    "name": "asdf",
+    "phone": "fda"
+  }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "clientWeekday": "fri",
+        "clientTime": "8:00",
+      "clientTeacher": "3",
+      "clientName": "Eugene",
+      "clientPhone": "12123123"
+    },
+  {
+    "clientWeekday": "thu",
+    "clientTime": "8:00",
+    "clientTeacher": "1",
+    "clientName": "Ilia",
+    "clientPhone": "0087763"
+  },
+  {
+    "clientWeekday": "fri",
+    "clientTime": "20:00",
+    "clientTeacher": "0",
+    "clientName": "sdf",
+    "clientPhone": "sdf"
+  },
+  {
+    "clientWeekday": "tue",
+    "clientTime": "16:00",
+    "clientTeacher": "4",
+    "clientName": "sdf",
+    "clientPhone": "df"
+  }
+]
